@@ -1,3 +1,6 @@
 function login(){
-    console.log("Welcome")
+    console.log("Iam login")
+}
+function logout(){
+    console.log("Iam logout")
 }
